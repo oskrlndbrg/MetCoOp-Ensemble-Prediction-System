@@ -9,4 +9,5 @@ The datasets are found here:
 https://thredds.met.no/thredds/metno.html
 
 For information about the model parametrization and physics, see:
+
 [1] Bengtsson, L. et al. (2017), "The HARMONIE–AROME Model Configuration in the ALADIN–HIRLAM NWP System", DOI: https://doi.org/10.1175/MWR-D-16-0417.1 
