@@ -178,7 +178,7 @@ for date in df_dates:
         print(err)
         fname = os.path.join(PATH_SAVE, 'Failed', ref_time.strftime("%Y%m%dT%H%M")+".txt")
         # Store the error
-        df_complete = pd.DataFrame(err)
+        df_complete = pd.DataFrame()
         df_complete.to_csv(fname, sep="\t")
         
 #%% Compile the downloaded data
